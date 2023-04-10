@@ -47,7 +47,7 @@ Relevant resources:
 
 1. Make sure dependencies required to build hactool/hacPack are installed on your system.
    ```console
-   git gcc make binutils
+   git gcc make binutils libjpeg
    ```
 2. Download & give executable permission to `yanu`:
    ```console
